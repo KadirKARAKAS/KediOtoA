@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153755996642",
+    "project_id": "kediotoa",
+    "storage_bucket": "kediotoa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153755996642:android:fec475bace35ba633469bb",
+        "android_client_info": {
+          "package_name": "com.kedi.otoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhVYj1XrfohJAwJu-40aYDG-H8GC_BnS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
